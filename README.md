@@ -4,13 +4,11 @@ This project is designed to detect tampering or alterations in PAN card images. 
 
 ## Requirements
 
-Before running the project, ensure that the following libraries are installed:
+Before running the project, ensure that the libraries are installed:
 
--   Pillow
--   requests
--   opencv-python
--   imutils
--   scikit-image
+```python
+pip install -r requirements.txt
+```
 
 ## Getting Started
 
