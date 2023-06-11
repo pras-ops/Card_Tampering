@@ -82,6 +82,7 @@ The project has the following structure:
 ## Deployment
 
 This project can be deployed on a web server or cloud platform.
+
 ![Screenshot (94)](https://github.com/pras-ops/Card_Tampering/assets/56476064/05084e69-5831-48f9-b317-669f16009b56)
 
 
